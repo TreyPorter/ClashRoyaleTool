@@ -1,0 +1,3 @@
+[submodule "jcrapi"]
+	path = jcrapi
+	url = https://github.com/mlieshoff/jcrapi
